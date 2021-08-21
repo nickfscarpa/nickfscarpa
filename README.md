@@ -1,16 +1,21 @@
-### Hi there 👋
+### Olá eu sou o Nicolas!!👩‍💻
 
-<!--
-**nickfscarpa/nickfscarpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Estudando Ciência da Computação no Centro Universitário Barão de Mauá;
 
-Here are some ideas to get you started:
+🎒 Main Tools: Visual Studio Code and GitHub;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Aprendendo C
+##
+
+<div>
+  <a href="https://github.com/n1ckfscarpa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nickfscarpa&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickfscarpa&layout=compact&langs_count=7&theme=darcula"/>
+</div>
+  
+##
+<div>
+  <a href = "mailto:bkscarpa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nicolas-scarpa-746790215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a
+  </div>
+
