@@ -1,10 +1,7 @@
 ### Olá eu sou o Nicolas!!👩‍💻
 
 👨‍🎓 Estudando Ciência da Computação no Centro Universitário Barão de Mauá;
-
-🎒 Main Tools: Visual Studio Code and GitHub;
-
-🌱 Aprendendo C
+🌱 Aprendendo C;
 ##
 
 <div>
