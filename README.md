@@ -1,8 +1,8 @@
 ### Olá eu sou o Nicolas!!👩‍💻
 
-- 👨‍🎓 Estudando Ciência da Computação no Centro Universitário Barão de Mauá;
+- 👨‍🎓 Estudante de Ciência da Computação no Centro Universitário Barão de Mauá;
 
-- 🌱 Aprendendo C;
+- 🌱 Aprendendo C e Java;
 
 ##
 
