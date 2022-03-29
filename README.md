@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Estudante de Ciência da Computação no Centro Universitário Barão de Mauá;
 
-- 🌱 Aprendendo C/C++;
+- 🌱 Conhecimento em C;
 
 - 🌱 Aprendendo Python;
 
