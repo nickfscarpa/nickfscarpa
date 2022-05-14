@@ -1,11 +1,7 @@
 ### Olá eu sou o Nicolas!!👩‍💻
 
 - 👨‍🎓 Estudante de Ciência da Computação no Centro Universitário Barão de Mauá;
-
-- 🌱 Conhecimento em C;
-
-- 🌱 Aprendendo Python;
-
+- 👩‍💻 Estagiário de TI na Fundace - USP;
 ##
 
 <div>
@@ -22,6 +18,3 @@
   </div>
     
 ##    
-    
- ![Snake animation](https://github.com/nickfscarpa/nickfscarpa/blob/output/github-contribution-grid-snake.svg)
-
