@@ -1,7 +1,7 @@
 ### Olá eu sou o Nicolas!!
 
 - 👨‍🎓 Estudante de Ciência da Computação no Centro Universitário Barão de Mauá;
-- 👩‍💻 Estagiário de TI na Fundace - USP;
+- 👩‍💻 Estagiário de TI na Fundace FEARP-USP;
 ##
 
 <div>
